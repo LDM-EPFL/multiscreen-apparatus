@@ -1,0 +1,19 @@
+install art
+
+pip3 install art
+
+
+
+.bashrc
+python3 /home/pi/GANGBUK/get_ip.py
+
+
+
+/boot/config.txt
+hdmi_group=1
+hdmi_mode=95
+
+
+sudo dpkg-reconfigre console-setup
+Terminus
+16x32

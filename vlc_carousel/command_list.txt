@@ -1,0 +1,10 @@
+
+
+
+
+for remote playing
+
+ssh pi@128.179.180.220 DISPLAY=:0.0 python3 GANGBUK/play_folder.py GANGBUK/ProjectName
+
+
+echo  string >/dev/tty1
